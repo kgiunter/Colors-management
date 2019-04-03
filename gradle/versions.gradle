@@ -1,0 +1,10 @@
+dependencies {
+    dependency "org.apache.commons:commons-lang3:$commonsLang3Version"
+    dependency "org.springframework.boot:spring-boot-starter-web:$springBootVersion"
+    dependency "org.projectlombok:lombok:$lombokVersion"
+
+    //Apache
+    dependency "org.apache.commons:commons-lang3:$commonsLang3Version"
+    dependency "org.apache.commons:commons-collections4:$commonsCollectionsVersion"
+
+}

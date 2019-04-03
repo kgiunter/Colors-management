@@ -1,0 +1,12 @@
+#DATASOURCE_URL:
+#DATASOURCE_USERNAME:
+#DATASOURCE_PASSWORD:
+
+# some database settings
+
+spring:
+  datasource:
+    url: ${DATASOURCE_URL}
+    username: ${DATASOURCE_USERNAME}
+    password: ${DATASOURCE_PASSWORD}
+    driver-class-name: oracle.jdbc.OracleDriver
