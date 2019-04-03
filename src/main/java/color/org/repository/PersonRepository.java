@@ -1,4 +1,4 @@
-package color.org.database;
+package color.org.repository;
 
 import color.org.model.PersonEntity;
 import color.org.model.PersonJson;

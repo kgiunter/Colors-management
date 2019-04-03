@@ -1,4 +1,4 @@
-package color.org.exceptionhandler;
+package color.org.model;
 
 public class CustomException extends RuntimeException{
 

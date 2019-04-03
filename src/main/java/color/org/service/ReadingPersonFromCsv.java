@@ -1,6 +1,6 @@
 package color.org.service;
 
-import color.org.exceptionhandler.CustomException;
+import color.org.model.CustomException;
 import color.org.model.CsvModelPerson;
 import color.org.utils.CsvTransfer;
 import com.opencsv.bean.ColumnPositionMappingStrategy;

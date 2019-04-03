@@ -1,6 +1,6 @@
 package color.org.service;
 
-import color.org.exceptionhandler.CustomException;
+import color.org.model.CustomException;
 import color.org.model.Person;
 import color.org.model.PersonJson;
 import lombok.RequiredArgsConstructor;

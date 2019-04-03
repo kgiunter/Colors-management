@@ -1,6 +1,6 @@
 package color.org.service;
 
-import color.org.exceptionhandler.CustomException;
+import color.org.model.CustomException;
 import color.org.model.CsvModelPerson;
 import com.opencsv.CSVWriter;
 import com.opencsv.bean.StatefulBeanToCsv;
