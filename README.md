@@ -1,7 +1,7 @@
 # Colors-management
 
 ## The application manages people and their favorite colors
----
+
 GET /persons
 ---
 Returns all persons from persons.csv
